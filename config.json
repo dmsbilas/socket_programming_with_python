@@ -1,0 +1,4 @@
+{
+    "name": "socket_server",
+    "command_to_run_file":"python3 /home/abu/codes/bc-projects/socket-communication/socket_server.py"
+}
